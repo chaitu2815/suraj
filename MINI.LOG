@@ -99,6 +99,7 @@ start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Deskto
 , url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
 
 send log finished. rt=0
+some of their systems equal to ejv
 
 sleep 40 seconds to retry send log.
 
