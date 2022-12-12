@@ -1,0 +1,234 @@
+parent process id:6476, handle:356, file:C:\Program Files (x86)\baidu\Baidu Browser\sparkupdate.exe.old
+SetUnhandledExceptionFilter
+process start. cmd:"C:\Program Files (x86)\baidu\Baidu Browser\desktoptoolmini_global_br.exe" , main thread id:1320
+mini_install_proc...
+CheckProcList ????????????????????????????
+download_config file:url=http://download.nicelogin.net/spark_gl.encrypt cgi=http://mini.reliablesever.net/report
+sleep 0 seconds to retry send log.
+download_config file: cgi=http://mini.reliablesever.net/report?uid=a1c8fe9e892db0dce36fc344bfb304be&type=10000000000000000000000000000000000000000000000000000000&partner=spark|gl|calendar|Bundle
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"0","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+request->WaitResult failsdownload config file failed. status code: -1, sleep 35 seconds to retry.
+send log finished. rt=0
+sleep 10 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"1","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 20 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"2","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 30 seconds to retry send log.
+download config file failed. status code: -1, sleep 26 seconds to retry.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"3","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 40 seconds to retry send log.
+download config file failed. status code: -1, sleep 32 seconds to retry.
+download config file failed. status code: -1, sleep 30 seconds to retry.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"4","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 50 seconds to retry send log.
+download config file failed. status code: -1, sleep 20 seconds to retry.
+download config file, rt=0
+sleep 0 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"0","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 10 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"5","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 60 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"1","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 20 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"2","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 30 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"3","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 40 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"6","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 70 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"4","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 50 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"7","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 80 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"5","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 60 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"6","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 70 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"8","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 90 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"7","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 80 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"9","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 100 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"8","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 90 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"10","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 110 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"9","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 100 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"11","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 120 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"10","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 110 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"12","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 130 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"11","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 120 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"13","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 140 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"12","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 130 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"14","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 150 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"13","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 140 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"14","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 150 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"15","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 160 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"15","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 160 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"16","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 170 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"16","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 170 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"17","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 180 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"17","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 180 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"18","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 190 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"18","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 190 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"19","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 200 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"19","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 200 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"20","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 210 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"20","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 210 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"21","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 220 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"21","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 220 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"22","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 230 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"22","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 230 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"23","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 240 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"23","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 240 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"24","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 250 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"24","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 250 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"25","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=0
+sleep 260 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"25","type":"config_faild2"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=1
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"26","type":"mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=1
+sleep 0 seconds to retry send log.
+start to send log:{"com":{"id":"a1c8fe9e892db0dce36fc344bfb304be","prod":"Desktop Tools","win":"6.3","sys":"x64","tn":"spark|gl|calendar|Bundle","ver":"1.0.0.241","lan":"1033","url":"http://www.nicelogin.net/cgi-bin-py/weather_install.cgi"},"status":{"parentName":"sparkupdate.exe.old","retry":"0","type":"p_mini_start_begin"}}
+, url=http://www.nicelogin.net/cgi-bin-py/weather_install.cgi
+send log finished. rt=1
+download_config file:url=http://download.nicelogin.net/spark_gl.encrypt cgi=http://mini.reliablesever.net/report
+download_config file: cgi=http://mini.reliablesever.net/report?uid=a1c8fe9e892db0dce36fc344bfb304be&type=10000000000000000000000000000000000000000000000000000000&partner=spark|gl|calendar|Bundle
+request->Send failsdownload config file failed. status code: 0, sleep 31 seconds to retry.
+MyUnhandledExceptionFilter...
+MyUnhandledExceptionFilter...
